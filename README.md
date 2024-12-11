@@ -27,7 +27,7 @@ The Reddit Story Video Bot is a powerful automation tool designed to convert Red
   Short-Form Video Formats: Generates videos in formats and resolutions optimized for YouTube Shorts, TikTok, and Instagram Reels.
   File Management: Saves the output videos in an organized directory structure for easy access.
 
-# Installation & Requirements 
+# Installation
 
 ```
 git clone https://github.com/yourusername/reddit-story-video-bot.git
@@ -36,7 +36,6 @@ cd reddit-story-video-bot
 
 mkdir Background_Gameplay && mkdir Video
 
-pip install -r requirements.txt
 ```
 You will also need to set up your reddit bot using the reddit api. Watch this video for more information
 You will also need to make a folder named "Background_Gameplay" and put in the background videos in there
